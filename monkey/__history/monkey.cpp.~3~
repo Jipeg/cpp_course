@@ -1,0 +1,32 @@
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+using namespace std;
+int main()
+{
+	char a,b;
+	int c,i,k,k1;
+	//s:string;
+
+	//randomize;
+	srand(time(nullptr)); // use current time as seed for random generator
+
+	int random_variable = rand();
+	cout << random_variable << endl;
+	cout << "Input latin small letter and number of it's repetitions:\n";
+	cin >> b >> c;
+	int k = 0;
+	int i = 0;
+	while (i < c) {
+		k++;
+		char a = char(random(ord('z')-ord('a')+1)+ord('a'));
+	  s:=s+a;
+	  if a = b then inc(i) else i:=0;
+	  }
+	Writeln(s);
+	writeln('Required: ',k);
+	k1:=1;
+	for i:=1 to c do k1:=k1*26;
+	Writeln('Theoreticaly it requires: ', k1);
+	readln;
+}

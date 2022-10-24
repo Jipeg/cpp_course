@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022-10-24 13:20:48.418,=F:\Проекты-2\Rad Studio\Project1PCH1.h</Transaction>
+    <Transaction>2022-10-24 13:20:48.453,=F:\Проекты-2\Rad Studio\File1.cpp</Transaction>
+    <Transaction>2022-10-24 13:21:08.642,F:\Projects\АЦТ\monkey\monkeyPCH1.h=F:\Проекты-2\Rad Studio\Project1PCH1.h</Transaction>
+    <Transaction>2022-10-24 13:21:08.693,F:\Projects\АЦТ\monkey\File1.cpp=F:\Проекты-2\Rad Studio\File1.cpp</Transaction>
+    <Transaction>2022-10-24 13:21:08.706,F:\Projects\АЦТ\monkey\monkey.cbproj=F:\Проекты-2\Rad Studio\Project1.cbproj</Transaction>
+    <Transaction>2022-10-24 13:21:17.704,F:\Projects\АЦТ\monkey\monkey.cpp=F:\Projects\АЦТ\monkey\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
