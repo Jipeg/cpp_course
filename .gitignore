@@ -1,6 +1,7 @@
 a.out
 *.o
 *.swp
+.vscode
 C++2003.pdf
 Win32/
 __recovery/
