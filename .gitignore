@@ -1,3 +1,6 @@
+a.out
+*.o
+*.swp
 C++2003.pdf
 Win32/
 __recovery/
